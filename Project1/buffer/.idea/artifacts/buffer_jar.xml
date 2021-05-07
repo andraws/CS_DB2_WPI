@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="buffer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/buffer_jar</output-path>
+    <root id="archive" name="buffer.jar">
+      <element id="module-output" name="buffer" />
+    </root>
+  </artifact>
+</component>

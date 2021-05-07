@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Index:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Index_jar</output-path>
+    <root id="archive" name="Index.jar">
+      <element id="module-output" name="Index" />
+    </root>
+  </artifact>
+</component>
